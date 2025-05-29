@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (
 echo # DIY Magneto Bench Tester
 echo.
@@ -26,3 +27,6 @@ echo.
 echo ## License
 echo MIT License - see `LICENSE` for details.
 ) > README.md
+=======
+# magneto-bench-tester
+>>>>>>> 2df089641c92dd8c617a322c5c752458e2e3cc18
