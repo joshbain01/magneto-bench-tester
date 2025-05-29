@@ -1,0 +1,15 @@
+# Temporary files
+*.bak
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.hex
+
+# Sensitive data
+secrets/
